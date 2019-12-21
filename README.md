@@ -9,13 +9,13 @@ Facial recognition is a biometric software application capable of uniquely ident
 
 ### Installation
 
-Step 1 - First clone the repository using the below URL,
+Step 1 - First clone the repository using the below URL.
 
 ```sh
 $ https://github.com/nadeengamage/face-recognition.git
 ```
 
-Step 2 - Then install the libraries,
+Step 2 - Then install the libraries.
 
 ```sh
 $ pip install -r requirements.txt
